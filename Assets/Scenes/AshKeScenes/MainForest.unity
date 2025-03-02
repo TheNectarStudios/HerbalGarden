@@ -8,8 +8,8 @@ OcclusionCullingSettings:
     smallestOccluder: 5
     smallestHole: 0.25
     backfaceThreshold: 100
-  m_SceneGUID: 00000000000000000000000000000000
-  m_OcclusionCullingData: {fileID: 0}
+  m_SceneGUID: 930d208c20d256e4dbb40aa864374aff
+  m_OcclusionCullingData: {fileID: 36300000, guid: 12f606d359d609e43aa35e5aecbd77ff, type: 2}
 --- !u!104 &2
 RenderSettings:
   m_ObjectHideFlags: 0
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.13744482, g: 0.17363149, b: 0.20926492, a: 1}
+  m_IndirectSpecularColor: {r: 0.13744515, g: 0.17363201, b: 0.20926571, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -191,6 +191,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -224,7 +228,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &32053888
 Transform:
@@ -329,7 +333,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &33131793
 Transform:
@@ -434,7 +438,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &34461566
 Transform:
@@ -590,6 +594,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -633,7 +641,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &66422578
 Transform:
@@ -788,6 +796,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1011,6 +1023,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1041,7 +1057,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &87062888
 Transform:
@@ -1077,7 +1093,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &88380828
 Transform:
@@ -1232,6 +1248,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1460,6 +1480,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (85)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1682,6 +1706,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1765,6 +1793,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (90)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1987,6 +2019,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2589,6 +2625,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2672,6 +2712,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2895,6 +2939,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3063,7 +3111,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &173337900
 Transform:
@@ -3149,6 +3197,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3372,6 +3424,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (77)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3593,6 +3649,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (81)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3816,6 +3876,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3987,7 +4051,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &205434335
 Transform:
@@ -4092,7 +4156,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &213565114
 Transform:
@@ -4197,7 +4261,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &242805523
 Transform:
@@ -4442,7 +4506,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &290105347
 Transform:
@@ -4478,7 +4542,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &320741904
 Transform:
@@ -4633,6 +4697,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4805,7 +4873,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &348433088
 Transform:
@@ -4910,7 +4978,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &355289453
 Transform:
@@ -5158,7 +5226,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &373726176
 Transform:
@@ -5313,6 +5381,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5482,7 +5554,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &403539586
 Transform:
@@ -5520,7 +5592,7 @@ GameObject:
   m_TagString: UIManager
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!114 &418067524
 MonoBehaviour:
@@ -5617,6 +5689,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5700,6 +5776,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5923,6 +6003,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (86)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6145,6 +6229,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6229,6 +6317,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6312,6 +6404,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6535,6 +6631,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6706,7 +6806,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &511538310
 Transform:
@@ -6811,7 +6911,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &532836892
 Transform:
@@ -6966,6 +7066,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (82)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7189,6 +7293,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (91)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7411,6 +7519,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7632,6 +7744,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (96)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7870,6 +7986,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8091,6 +8211,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (89)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8319,6 +8443,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8546,6 +8674,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8722,6 +8854,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (78)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8893,7 +9029,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &677445647
 Transform:
@@ -8998,7 +9134,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &688288580
 Transform:
@@ -9153,6 +9289,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9322,7 +9462,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &703063742
 Transform:
@@ -9409,6 +9549,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9440,7 +9584,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!114 &721527400
 MonoBehaviour:
@@ -9485,7 +9629,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &734034197
 Transform:
@@ -9519,7 +9663,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!108 &738932711
 Light:
@@ -9613,7 +9757,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!114 &752572350
 MonoBehaviour:
@@ -9818,6 +9962,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10040,6 +10188,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (87)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10544,6 +10696,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10653,6 +10809,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (95)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10822,7 +10982,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &820124117
 Transform:
@@ -10908,6 +11068,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (70)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11131,6 +11295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (84)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11302,7 +11470,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &842534339
 Transform:
@@ -11457,6 +11625,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11680,6 +11852,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11897,6 +12073,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11980,6 +12160,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12065,6 +12249,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12148,6 +12336,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12593,7 +12785,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &930155713
 Transform:
@@ -12629,7 +12821,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &934769814
 Transform:
@@ -12784,6 +12976,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13006,6 +13202,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (80)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13234,6 +13434,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13267,7 +13471,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &958438929
 Transform:
@@ -13372,7 +13576,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &965586197
 Transform:
@@ -13527,6 +13731,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (74)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13750,6 +13958,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13915,7 +14127,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!114 &971368593
 MonoBehaviour:
@@ -13975,6 +14187,162 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 92093974407374608, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 200743509008355658, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 322601491213988918, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 553325368424324810, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 689454112983328024, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 814729602956005401, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 891641885583660431, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 939151236335338172, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 982117330493228907, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1138198143366529975, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1208334641401256948, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1299756823491663266, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1438980026538810322, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1642969647740439388, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715699992976094349, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1831355830003422935, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2110947583442119889, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2127957398871096830, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2262692434436553513, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2275426605972917628, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2535195041880160622, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2546647950812891640, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2748820558238002515, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3030049110188086509, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3203721005143149849, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3326630883539476781, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3366007439747685124, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413779235985150124, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3531661578410045608, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810907654174659437, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3868371323534122136, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3898902035209822708, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3925666405117095304, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3929993992077627590, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4079503803819946897, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4810209650601197745, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5184485457882285087, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5380233770545623159, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5942139991311565109, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6123350499890550830, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
       propertyPath: m_LocalPosition.x
       value: 60.873764
@@ -14015,9 +14383,81 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6321614773472271880, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6323063044202543351, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6345255856701299936, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6375017217809760655, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6397067208841858608, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6612643577364343019, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6895383191366894228, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
       propertyPath: m_Name
       value: Giloy
+      objectReference: {fileID: 0}
+    - target: {fileID: 6895383191366894228, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6998388788104113374, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7036960606590525431, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7113811999218462812, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7120304786988310295, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7187991879471387228, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8250229969154894002, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8373573034836733821, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8673736209541033574, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8807456630466501863, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8830023691324264694, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 9006867254687481342, guid: b1a795372ec6fdf48916daa2d95d1a26, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14041,7 +14481,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &982847864
 Transform:
@@ -14146,7 +14586,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &987574913
 Transform:
@@ -14302,6 +14742,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14335,7 +14779,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1018771225
 Transform:
@@ -14495,6 +14939,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14667,7 +15115,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1034790245
 Transform:
@@ -14772,7 +15220,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1057897559
 Transform:
@@ -14932,6 +15380,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15101,7 +15553,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1071461326
 Transform:
@@ -15134,7 +15586,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1087862973
 Transform:
@@ -15220,6 +15672,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15438,6 +15894,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (73)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15606,7 +16066,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1100056430
 Transform:
@@ -15642,7 +16102,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1100784593
 Transform:
@@ -15798,6 +16258,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15829,7 +16293,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!114 &1119151193
 MonoBehaviour:
@@ -15872,7 +16336,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1122250605
 Transform:
@@ -15958,6 +16422,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16181,6 +16649,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16403,6 +16875,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16569,7 +17045,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1164262801
 Transform:
@@ -16674,7 +17150,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1166293431
 Transform:
@@ -16776,7 +17252,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1170392270
 Transform:
@@ -16862,6 +17338,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (67)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17034,7 +17514,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1181282553
 Transform:
@@ -17139,7 +17619,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1202956772
 Transform:
@@ -17244,7 +17724,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1226585440
 Transform:
@@ -17404,6 +17884,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (97)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17567,13 +18051,53 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 96078444941784195, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 239806564413820234, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 5561349426305759274, guid: 9e1dc1c14313460d872de39e35129b39, type: 3}
+    - target: {fileID: 297700678477857855, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 297700679528917044, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 297700680041899073, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 297700680041899077, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 297700680147207360, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 297700680225093730, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 319016064473720172, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 355228691058109372, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1172869104148370256, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1405623202339610705, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1438552235638684957, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
       propertyPath: m_Name
@@ -17582,6 +18106,10 @@ PrefabInstance:
     - target: {fileID: 1438552235638684957, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1438552235638684957, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1438552235638684958, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17623,10 +18151,98 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1647432057224281078, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1893420143076270974, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2084934982810523090, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2329974058068727646, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2353749544499335322, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469504339917492714, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2498533143032375635, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 5561349426305759274, guid: f077c919501a44778a0c2edb6eb1a54a, type: 3}
+    - target: {fileID: 2614560003161735256, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2728831023167818797, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3729074386063695798, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830496285658408214, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3973229101618880495, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4871079800613851579, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5266345654724958639, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5965173442221646062, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6222964588177726004, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6225464708656607661, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6781089833417377725, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6832849889910483845, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8294198943365938697, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8302361514698491127, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685432610261312105, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8880686709742190306, guid: a1df9042ebaf3654c89d510f38cff621, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -17652,7 +18268,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1281416962
 Transform:
@@ -17757,7 +18373,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1289300886
 Transform:
@@ -17913,6 +18529,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17996,6 +18616,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (71)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18219,6 +18843,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18441,6 +19069,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18607,7 +19239,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1316419518
 Transform:
@@ -18762,6 +19394,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18985,6 +19621,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19068,6 +19708,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19237,7 +19881,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1337562109
 Transform:
@@ -19323,6 +19967,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19490,7 +20138,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1373704864
 Transform:
@@ -19784,6 +20432,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (68)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20058,7 +20710,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!114 &1394373592
 MonoBehaviour:
@@ -20109,7 +20761,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1401164807
 Transform:
@@ -20211,7 +20863,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1403120472
 Transform:
@@ -20297,6 +20949,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20519,6 +21175,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20947,6 +21607,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4708155845903416020, guid: 02d5dae18364f9c49b62da1d4e247193, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5340541696313663598, guid: 02d5dae18364f9c49b62da1d4e247193, type: 3}
       propertyPath: m_LocalPosition.x
       value: 61.094948
@@ -21091,7 +21755,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1454508302
 Transform:
@@ -21315,6 +21979,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22063,6 +22731,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (98)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22566,6 +23238,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (83)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22787,6 +23463,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23010,6 +23690,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23181,7 +23865,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1637681715
 Transform:
@@ -23336,6 +24020,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (88)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23559,6 +24247,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (79)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23727,7 +24419,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1643137954
 Transform:
@@ -23760,7 +24452,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1654809504
 Transform:
@@ -23796,7 +24488,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1654993479
 Transform:
@@ -24090,6 +24782,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24258,7 +24954,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1680677330
 Transform:
@@ -24291,7 +24987,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1683096458
 Transform:
@@ -24377,6 +25073,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24600,6 +25300,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24816,6 +25520,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (94)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25177,6 +25885,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25399,6 +26111,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25565,7 +26281,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1750437252
 Transform:
@@ -25720,6 +26436,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (93)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26028,7 +26748,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!114 &1788863708
 MonoBehaviour:
@@ -26191,6 +26911,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26363,7 +27087,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1809709186
 Transform:
@@ -26465,7 +27189,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1834853217
 Transform:
@@ -26498,7 +27222,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1836559457
 Transform:
@@ -26534,7 +27258,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1850930242
 Transform:
@@ -26636,7 +27360,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1852969151
 Transform:
@@ -26670,7 +27394,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1869897142
 Transform:
@@ -26706,7 +27430,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1871968782
 Transform:
@@ -26861,6 +27585,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (92)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27033,7 +27761,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1884023887
 Transform:
@@ -27138,7 +27866,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1888505773
 Transform:
@@ -27243,7 +27971,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1890667159
 Transform:
@@ -27398,6 +28126,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27567,7 +28299,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1904119415
 Transform:
@@ -27603,7 +28335,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1909293379
 Transform:
@@ -27896,6 +28628,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28251,6 +28987,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (66)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28612,6 +29352,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28778,7 +29522,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1957473651
 Transform:
@@ -28883,7 +29627,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1962888390
 Transform:
@@ -29038,6 +29782,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29207,7 +29955,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1993447318
 Transform:
@@ -29277,6 +30025,14 @@ PrefabInstance:
     - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
       propertyPath: m_Name
       value: XR Device Simulator
+      objectReference: {fileID: 0}
+    - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29684,7 +30440,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2023940241
 Transform:
@@ -29771,6 +30527,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29815,7 +30575,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &2060495841
 Transform:
@@ -29920,7 +30680,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &2063910049
 Transform:
@@ -30022,7 +30782,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2074401472
 Transform:
@@ -30108,6 +30868,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30275,7 +31039,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2114112414
 Transform:
@@ -30430,6 +31194,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
       propertyPath: m_Name
       value: uploads_files_1027432_Paving_Stone (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eed9f6d63208e98409d1eebbe63717cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30735,7 +31503,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2140223651
 Transform:
@@ -30837,7 +31605,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2140237285
 Transform:
@@ -31108,7 +31876,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2147157058
 Transform:
@@ -31213,7 +31981,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &2147449707
 Transform:
