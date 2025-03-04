@@ -1992,7 +1992,7 @@ GameObject:
   - component: {fileID: 110473465}
   - component: {fileID: 110473466}
   m_Layer: 5
-  m_Name: SafedMusli
+  m_Name: Safed Musli
   m_TagString: Plant
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
